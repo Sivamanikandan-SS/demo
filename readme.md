@@ -1,3 +1,9 @@
-#heading 
+# heading 
 
-##heading
+## heading
+
+**bold**
+
+*italic*
+
+~~strikethrough~~
